@@ -4,6 +4,10 @@
 
 This project is new cool interactive portfolio, built with the intention of showcasing experience and skills in a captivating and engaging way. Leveraging the power of GitHub's API, it seamlessly retrieves and displays information about developer in modern stylish way. This ensures that the content you see is always up-to-date, reflecting all latest endeavors and achievements.
 
+## 🌐 Live Website
+
+- The application is live and hosted on Render. You can access it [here](https://github-portfolio-3gcw.onrender.com/).
+
 ## 📸 Screenshot
 
 - Home Page  
